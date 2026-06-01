@@ -1,5 +1,11 @@
 # Goal Tracker Dashboard
 
+![React](https://img.shields.io/badge/React-19-blue)
+![Vite](https://img.shields.io/badge/Vite-Latest-purple)
+![MUI](https://img.shields.io/badge/MUI-v7-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 A modern React-based goal and habit tracking application that helps users create goals, track progress, build streaks, earn XP, and manage personal growth through a clean and responsive dashboard.
 
 ---
