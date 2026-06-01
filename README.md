@@ -92,7 +92,8 @@ src/
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/nargesyaghoubi-ygh/Goal-Tracker.git
+>
 ```
 
 ### Install Dependencies
@@ -189,7 +190,6 @@ _Add mobile screenshots here._
 
 ## Author
 
-**Narcissus**
+**Narges Yaghoubi**
 
-Built as part of the **Week 6 Goal Tracker Dashboard Assignment**.
 
