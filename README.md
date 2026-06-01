@@ -9,6 +9,42 @@
 A modern React-based goal and habit tracking application that helps users create goals, track progress, build streaks, earn XP, and manage personal growth through a clean and responsive dashboard.
 
 ---
+
+
+## 📸 Screenshots
+
+<div align="center">
+  <table align="center">
+    <tr align="center">
+      <td align="center">
+        <h3>Desktop View</h3>
+        <a href="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/desktop.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/desktop.png?raw=true" height="400px">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Desktop View</h3>
+        <a href="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/desktop-fa.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/desktop-fa.png?raw=true" height="400px">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Mobile View</h3>
+        <a href="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/mobile-2.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/mobile-2.png?raw=true" height="400px">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Mobile View</h3>
+        <a href="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/mobile.png">
+          <img src="https://github.com/nargesyaghoubi-ygh/Goal-Tracker/blob/main/public/mobile.png?raw=true" height="400px">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 ## Features
 
 ### Dashboard
