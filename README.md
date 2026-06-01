@@ -9,7 +9,6 @@
 A modern React-based goal and habit tracking application that helps users create goals, track progress, build streaks, earn XP, and manage personal growth through a clean and responsive dashboard.
 
 ---
-
 ## Features
 
 ### Dashboard
@@ -169,18 +168,6 @@ The streak system follows these rules:
 | Goal Completion | +50 |
 
 XP is displayed on the dashboard and stored in LocalStorage.
-
----
-
-## Screenshots
-
-### Desktop
-
-_Add desktop screenshots here._
-
-### Mobile
-
-_Add mobile screenshots here._
 
 ---
 
